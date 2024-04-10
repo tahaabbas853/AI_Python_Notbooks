@@ -1,0 +1,1 @@
+Hoisting with only var variables, the let or const vaiables are not allowed to use outside as they have block level scope same we can access function variables outside it curlys.
